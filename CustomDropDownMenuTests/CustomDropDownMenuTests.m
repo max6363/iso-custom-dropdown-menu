@@ -3,7 +3,7 @@
 //  CustomDropDownMenuTests
 //
 //  Created by Minhaz on 18/06/17.
-//  Copyright © 2017 iqtech. All rights reserved.
+//  Copyright © 2017 iQTech. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
