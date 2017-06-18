@@ -5,7 +5,7 @@
 > ![ios-dropdown-menu](https://github.com/max6363/iso-custom-dropdown-menu/blob/master/dropdown-menu-ios.png)
 
 # Video
-> ![max](https://github.com/max6363/iso-custom-dropdown-menu/blob/master/dropdowmenu-ios1.mov)
+> [![ios-dropdown-menu](https://img.youtube.com/vi/lNTI6v7qJPg/0.jpg)](https://www.youtube.com/watch?v=lNTI6v7qJPg)
 
 ## Usage
 > 1.
