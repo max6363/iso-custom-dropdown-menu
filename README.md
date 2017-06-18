@@ -49,11 +49,11 @@
     [theCustomDropdownButton setArrowButton:btnDropDown];
 > 3.
 > implement protocols.
+
     - (void)dropdown:(CustomDropDown *)dropdown didSelectWithDropdownItemView:(CustomDropDownView *)dropdownItemview
     {
         NSLog(@"title : %@",dropdownItemview.title);
     }
-
 
 ## Author
 > Minhaz Panara, minhaz.panara@gmail.com
